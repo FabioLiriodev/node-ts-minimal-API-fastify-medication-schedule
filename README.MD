@@ -237,6 +237,6 @@ Esses desafios contribuíram diretamente para o aprimoramento na construção de
 
 <img src="https://avatars.githubusercontent.com/u/140852220?v=4" width=100><br><sub>Fábio Lirio</sub>
 
-<h3> Credits </h3>
+<h3> 🪙 Credits 🪙 </h3>
 
 - **Node Boilerplate** by Felipe Aguiar (https://github.com/felipeAguiarCode) 
